@@ -1,5 +1,5 @@
 {
-  "version": "2.1.5",
-  "url": "https://github.com/yahiahadjii/emesa_releases/releases/download/v2.1.5/Setup_EmesaWarelink_v2.1.5.exe",
-  "release_notes": "الإصدار 2.1.5 — تحديث إصلاح الأخطاء\n\n• إصلاح أخطاء متعددة تم اختبارها وتأكيدها\n• تحسين الأداء العام للتطبيق\n• استقرار أكبر في عمليات قاعدة البيانات"
+  "version": "2.1.6",
+  "url": "https://github.com/yahiahadjii/emesa_releases/releases/download/v2.1.6/Setup_EmesaWarelink_v2.1.6.exe",
+  "release_notes": "الإصدار v2.1.6 - 1 أغسطس 2026\n\n✅ دعم لوحة المفاتيح في مصمم القوالب\n✅ إصلاح حقل الملاحظات في الاخراج\n✅ إضافة حقل الرقم والملاحظات في التقرير الشهري\n✅ إصلاح الكمية الافتتاحية في حركة المادة\n✅ إصلاح رقم الصفحة في القوالب المخصصة"
 }
