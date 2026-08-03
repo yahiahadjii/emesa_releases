@@ -1,5 +1,5 @@
 {
-  "version": "2.1.8",
-  "url": "https://github.com/yahiahadjii/emesa_releases/releases/download/v2.1.8/Setup_EmesaWarelink_v2.1.8.exe",
-  "release_notes": "تم إصلاح عدة أخطاء برمجية لتحسين استقرار وأداء البرنامج، بالإضافة إلى تحسينات عامة في طباعة النماذج المخصصة."
+  "version": "2.1.9",
+  "url": "https://github.com/yahiahadjii/emesa_releases/releases/download/v2.1.9/Setup_EmesaWarelink_v2.1.9.exe",
+  "release_notes": "إصلاح بعض الأخطاء وإعادة ترتيب الحقول في قوالب الطباعة لتسهيل الاستخدام."
 }
