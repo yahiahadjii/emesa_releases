@@ -1,5 +1,5 @@
 {
-  "version": "2.1.7",
-  "url": "https://github.com/yahiahadjii/emesa_releases/releases/download/v2.1.7/Setup_EmesaWarelink_v2.1.7.exe",
-  "release_notes": "الإصدار v2.1.7 - 1 أوت 2026\n\n✅ إصلاح مشكلة عدم طباعة الحقول المكررة في القوالب المخصصة\n✅ إصلاح حقل (المستفيد) في القوالب الافتراضية لإخراج المواد\n✅ إصلاح مشكلة تداخل الكميات وتكرارها بين السطر 5 والسطر 14\n✅ إصلاح مشكلة اختفاء الكمية في السطر 5 في إرسال المواد\n✅ إظهار أيقونة البرنامج بشكل صحيح بعد التثبيت وفي الاختصارات"
+  "version": "2.1.8",
+  "url": "https://github.com/yahiahadjii/emesa_releases/releases/download/v2.1.8/Setup_EmesaWarelink_v2.1.8.exe",
+  "release_notes": "تم إصلاح عدة أخطاء برمجية لتحسين استقرار وأداء البرنامج، بالإضافة إلى تحسينات عامة في طباعة النماذج المخصصة."
 }
