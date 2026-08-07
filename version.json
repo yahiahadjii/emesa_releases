@@ -1,5 +1,5 @@
 {
-  "version": "2.1.14",
-  "url": "https://github.com/yahiahadjii/emesa_releases/releases/download/v2.1.14/Setup_EmesaWarelink_v2.1.14.exe",
-  "release_notes": "تحديث جديد (v2.1.14):\n- إصلاح نهائي لمشكلة عدم ظهور أيقونة البرنامج في شريط المهام"
+  "version": "2.1.15",
+  "url": "https://github.com/yahiahadjii/emesa_releases/releases/download/v2.1.15/Setup_EmesaWarelink_v2.1.15.exe",
+  "release_notes": "تحديث جديد (v2.1.15):\n- حل مشكلة عدم ظهور أيقونة البرنامج في شريط المهام.\n- إصلاح مشكلة اختفاء السجلات عند التمرير في سجل عمليات الإخراج."
 }
