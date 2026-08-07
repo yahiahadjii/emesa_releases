@@ -1,5 +1,5 @@
 {
-  "version": "2.1.19",
-  "url": "https://github.com/yahiahadjii/emesa_releases/releases/download/v2.1.19/Setup_EmesaWarelink_v2.1.19.exe",
-  "release_notes": "تحديث جديد (v2.1.19):\n- إصلاح شامل لمشكلة التحديث التلقائي في جميع الأجهزة."
+  "version": "2.1.21",
+  "url": "https://github.com/yahiahadjii/emesa_releases/releases/download/v2.1.21/Setup_EmesaWarelink_v2.1.21.exe",
+  "release_notes": "تحديث جديد (v2.1.21):\n- حل مشكلة عدم ظهور أيقونة البرنامج في شريط المهام.\n- إصلاح مشكلة اختفاء السجلات عند التمرير في سجل عمليات الإخراج.\n- إصلاح مشكلة التحديث التلقائي في بعض الأجهزة (SSL).\n- إضافة مكونات النظام الأساسية (Visual C++) لضمان فتح البرنامج في جميع الأجهزة."
 }
